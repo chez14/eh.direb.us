@@ -1,0 +1,4 @@
+# Fallback
+[[redirects]]
+  from = "/*"
+  to = "https://github.com/chez14/eh.direb.us"
