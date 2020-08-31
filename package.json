@@ -1,0 +1,16 @@
+{
+  "name": "eh.direb.us",
+  "description": "Static link shortener. Just for fun.",
+  "version": "0.14.44",
+  "author": "Chris Qiang <chris@christianto.net>",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "devDependencies": {
+    "netlify-shortener": "^2.3.0"
+  },
+  "main": "index.js",
+  "repository": "git@github.com:chez14/eh.direb.us.git",
+  "license": "MIT",
+  "private": true
+}
